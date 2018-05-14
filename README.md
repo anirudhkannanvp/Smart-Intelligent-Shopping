@@ -1,6 +1,21 @@
 # Smart-Intelligent-Shopping
 This Repository contains files of the hosted and functioning Smart Shopping Website as well as the Microcontroller (RasberryPi) files.
 
+The SMART-INTELLIGENT-SHOPPING System makes Shopping experience Hassle Free,fun and easier. It also reduces Labour, as there is no need for labour for billing or checking as the smart trolley along with the software check it automatically and autenticates transactions. Morever there is a map feature which gives an shortest route for the user to select products dynamically.
+
 https://vdmask.000webhostapp.com/vdmask/28-03/index1.html - TO REGISTER FOR THE SMART SHOPPING WEBSITE
 
-https://vdmask.000webhostapp.com/vdmask/28-03/index.html - TO VISIT RHE SMART SHOPPING WEBSITE
+https://vdmask.000webhostapp.com/vdmask/28-03/index.html - TO VISIT THE SMART SHOPPING WEBSITE
+
+THE RASBERRY PI FILES NEED TO BE UPLOADED TO THE MICROCONTROLLER, SMART TROLLEY
+
+HOW THE SMART SHOPPING SYSTEM WORKS:-
+
+1) USERS FIRST SIGNS UP THE STORE AT THE ABOVE at https://vdmask.000webhostapp.com/vdmask/28-03/index1.html AS CUSTOMER.
+2) THERE ARE 3 MODES OF LOGIN ADMIN,EMPLOYEE OR CUSTOMER. ADMIN CAN ADD OTHER ADMINS OR OTHER EMPLOYEES.
+3) ONCE A CUSTOMER REGISTERS HE RECIEVES A RFID CARD,WHICH IS USED TO AUTENTICATE HIM TO CART.
+4) THE APP AS WELL AS WEBSITE HAS MANY FEATURES LIKE MAP ( GETTING SHORTEST ROUTE TO ALL PRODUCTS DYNAMICALLY), SEARCH FOR PRODUCTS BASED    ON NAME,PRICE RANGE ETC.
+5) THE PRODUCTS ARE ADDED TO CART BASED ON SCANNING BARCODE OF PRODUCTS WITH THE BARCODE SCANNER IN APP.
+6) AFTER COMPLETION OF TRANSACTION AND PAYMENT IS VERIFIED IN THE APP THE SMART TROLLEY OPENS AND USER CAN TAKE THE PRODUCT.
+7) ALL THE TRANSANSACTIONS DONE BY EVERY CUSTOMER ARE STORED IN A BACKEND SQL SERVER AND RECOMENDATIONS ARE GIVEN TO CUSTOMER BASED ON PAST HISTORY.
+ 
